@@ -1,6 +1,7 @@
 * {
     margin: 0;
     padding: 0;
+    list-style: none;
   }
 
   .Header {
@@ -22,9 +23,9 @@
     font-size: 32px;
     font-family: Helvetica;
     font-weight: bold;
-    color: white;
   }
 
   .Sidebar{
     display: grid;
+    background-color: blueviolet;
   }
