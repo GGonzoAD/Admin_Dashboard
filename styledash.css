@@ -29,3 +29,10 @@
     display: grid;
     background-color: #7d0da5;
   }
+
+  .Projects{
+    background-color: #bccbde;
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(350px, 1fr));
+    gap: 15px;
+  }
