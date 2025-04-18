@@ -5,7 +5,7 @@
   }
 
   .Header {
-    background-color: #393f4d;
+    background-color: #d1991f;
     display: grid;
     grid-template-columns: 4fr 4fr;
     grid-column: span 2;
@@ -27,5 +27,5 @@
 
   .Sidebar{
     display: grid;
-    background-color: blueviolet;
+    background-color: #7d0da5;
   }
