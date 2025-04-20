@@ -36,3 +36,11 @@
     grid-template-columns: repeat(auto-fit, minmax(350px, 2fr));
     gap: 15px;
   }
+
+  .Projects p {
+    font-size: 18px;
+    font-family: 'Courier New', Courier, monospace;
+    color:#000000;
+    text-align: center;
+    gap: 15px;
+  }
