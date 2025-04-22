@@ -26,13 +26,12 @@
   }
 
   .Sidebar{
-    display: grid;
     background-color: #7d0da5;
     grid-row: 1 / span 4; 
   }
   .dash-icon{
     display:grid;
-    width: 35px;
+    width: 50px;
 
   }
   .Projects{
