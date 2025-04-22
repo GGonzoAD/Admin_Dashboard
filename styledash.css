@@ -37,7 +37,8 @@
   .Projects{
     background-color: #bccbde;
     display: grid;
-    grid-template-columns: repeat(auto-fit, minmax(350px, 2fr));
+    grid-row: 2/ span 4;
+    grid-template-columns: repeat(auto-fit, minmax(300px, 2fr));
     gap: 15px;
   }
 
