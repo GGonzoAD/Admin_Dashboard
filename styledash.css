@@ -30,7 +30,9 @@
     background-color: #7d0da5;
   }
   .dash-icon{
-    width: 50px;
+    display:grid;
+    width: 35px;
+
   }
   .Projects{
     background-color: #bccbde;
