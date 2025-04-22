@@ -8,7 +8,7 @@
     background-color: #d1991f;
     display: grid;
     grid-template-columns: 4fr 4fr;
-    grid-column: span 2;
+    grid-column: 2/ span 2;
   }
 
   .Container {
@@ -28,6 +28,7 @@
   .Sidebar{
     display: grid;
     background-color: #7d0da5;
+    grid-row: 1 / span 4; 
   }
   .dash-icon{
     display:grid;
