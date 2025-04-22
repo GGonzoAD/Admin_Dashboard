@@ -29,7 +29,9 @@
     display: grid;
     background-color: #7d0da5;
   }
-
+  .dash-icon{
+    width: 50px;
+  }
   .Projects{
     background-color: #bccbde;
     display: grid;
