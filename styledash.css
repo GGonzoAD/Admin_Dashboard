@@ -3,7 +3,7 @@
     padding: 0;
     list-style: none;
   }
-  body{
+  .body{
     background-color: #ffffff;
   }
   .Header {
@@ -56,4 +56,9 @@
     color:black;
     text-align: center;
     height: 200px;
+  }
+
+  .Searchbar {
+    border: 2px slateblue;
+    border-radius: 20px 30px;
   }
