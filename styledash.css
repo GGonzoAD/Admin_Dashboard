@@ -3,7 +3,9 @@
     padding: 0;
     list-style: none;
   }
-
+  body{
+    background-color: #ffffff;
+  }
   .Header {
     background-color: #ff9100;
     display: grid;
@@ -15,7 +17,6 @@
     text-align: center;
     display: grid;
     grid-template-columns: 1fr 8fr;
-    gap: 4px;
   }
 
   .Container div {
@@ -39,7 +40,7 @@
     display: grid;
     grid-row: 2/ span 4;
     grid-template-columns: repeat(auto-fit, minmax(500px, 4fr));
-    gap: 15px;
+    gap: 30px;
   }
 
   .Projects p {
