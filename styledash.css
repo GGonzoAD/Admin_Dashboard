@@ -5,7 +5,7 @@
   }
 
   .Header {
-    background-color: #d1991f;
+    background-color: #ff9100;
     display: grid;
     grid-template-columns: 4fr 4fr;
     grid-column: 2/ span 2;
@@ -38,7 +38,7 @@
     background-color: #bccbde;
     display: grid;
     grid-row: 2/ span 4;
-    grid-template-columns: repeat(auto-fit, minmax(300px, 2fr));
+    grid-template-columns: repeat(auto-fit, minmax(500px, 4fr));
     gap: 15px;
   }
 
