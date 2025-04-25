@@ -59,6 +59,6 @@
   }
 
   .Searchbar {
-    border: 2px slateblue;
-    border-radius: 20px 30px;
+    border: 3px #7d0da5;
+    border-radius: 20px;
   }
