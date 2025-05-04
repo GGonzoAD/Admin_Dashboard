@@ -65,3 +65,22 @@
     border: 3px #7d0da5;
     border-radius: 20px;
   }
+
+  .Header .searchbar_button{
+    display: grid;
+    
+  }
+
+  .Header .new_button{
+    display: grid;
+    border-radius: 25px;
+  }
+  .Header .upload_button{
+    display: grid;
+    border-radius: 25px;
+  }
+
+  .Header .share_button{
+    display: grid;
+    border-radius: 25px;
+  }
