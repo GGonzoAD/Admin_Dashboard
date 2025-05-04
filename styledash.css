@@ -74,19 +74,28 @@
   .Header .new_button{
     display: grid;
     border-radius: 20px;
-    width: 50px;
+    width: 70px;
     height: 40px;
+  }
+  .Header .new_button p{
+    display: grid;
   }
   .Header .upload_button{
     display: grid;
     border-radius: 20px;
-    width: 50px;
+    width: 70px;
     height: 40px;
+  }
+  .Header .upload_button p{
+    display: grid;
   }
 
   .Header .share_button{
     display: grid;
     border-radius: 20px;
-    width: 50px;
+    width: 70px;
     height: 40px;
+  }
+  .Header .share_button p{
+    display: grid;
   }
