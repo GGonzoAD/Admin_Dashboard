@@ -77,7 +77,7 @@
     .User_Picture img{
       width: 70px;
       height: 60px;
-      border-radius: 10px;
+      border-radius: 25px;
     }
   .Header .new_button{
     display: grid;
