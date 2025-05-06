@@ -64,7 +64,7 @@
   .Searchbar {
     border: 3px #7d0da5;
     border-radius: 20px;
-    width: 1fr;
+    width: 1;
   }
 
   .Header .searchbar_button{
@@ -72,13 +72,19 @@
     border-radius: 20px;
     width: 50px;
     height: 40px;
+    background-color: #892faa;
   }
-
+    .User_Picture img{
+      width: 70px;
+      height: 60px;
+      border-radius: 10px;
+    }
   .Header .new_button{
     display: grid;
     border-radius: 20px;
     width: 70px;
     height: 40px;
+    background-color: #892faa;
   }
   .Header .new_button p{
     display: grid;
@@ -88,6 +94,7 @@
     border-radius: 20px;
     width: 70px;
     height: 40px;
+    background-color: #892faa;
   }
   .Header .upload_button p{
     display: grid;
@@ -98,6 +105,7 @@
     border-radius: 20px;
     width: 70px;
     height: 40px;
+    background-color: #892faa;
   }
   .Header .share_button p{
     display: grid;
