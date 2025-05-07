@@ -66,6 +66,8 @@
     border-radius: 20px;
     width: 1px;
     height: 25px;
+    grid-column: 1;
+    grid-row: 1;
   }
 
   .Header .searchbar_button{
