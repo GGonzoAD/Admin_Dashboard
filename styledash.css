@@ -85,6 +85,8 @@
     width: 70px;
     height: 40px;
     background-color: #892faa;
+    grid-column: 4;
+    grid-row: 6;
   }
   .Header .new_button p{
     display: grid;
@@ -95,6 +97,8 @@
     width: 70px;
     height: 40px;
     background-color: #892faa;
+    grid-column: 5;
+    grid-row: 6;
   }
   .Header .upload_button p{
     display: grid;
@@ -106,6 +110,8 @@
     width: 70px;
     height: 40px;
     background-color: #892faa;
+    grid-column: 6;
+    grid-row: 6;
   }
   .Header .share_button p{
     display: grid;
