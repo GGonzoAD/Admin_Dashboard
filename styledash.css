@@ -64,7 +64,8 @@
   .Searchbar {
     border: 3px #7d0da5;
     border-radius: 20px;
-    width: 1;
+    width: 1px;
+    height: 25px;
   }
 
   .Header .searchbar_button{
