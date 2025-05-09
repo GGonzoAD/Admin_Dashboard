@@ -47,6 +47,7 @@
   }
 
   .Projects p {
+    display: grid;
     font-size: 18px;
     font-family: 'Courier New', Courier, monospace;
     color:#000000;
