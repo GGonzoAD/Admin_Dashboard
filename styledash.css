@@ -38,10 +38,17 @@
     width: 50px;
 
   }
+  .Your_Projects{
+    display: grid;
+    height: 50px;
+    width: 100px;
+    grid-row: 2;
+  }
   .Projects{
     background-color: #bccbde;
     display: grid;
     grid-row: 2/ span 4;
+    grid-column: 3;
     grid-template-columns: repeat(auto-fit, minmax(500px, 4fr));
     gap: 30px;
   }
@@ -121,4 +128,17 @@
   }
   .Header .share_button p{
     display: grid;
+  }
+  .Announcements{
+    display: grid;
+    height: 50px;
+    width: 100px;
+    grid-row: 4;
+    grid-column: 3;
+  }
+  .Trending{
+    display: grid;
+    height: 50px;
+    width: 100px;
+    grid-row: 5;
   }
