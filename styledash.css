@@ -4,7 +4,7 @@
     list-style: none;
   }
   .body{
-    background-color: #ffffff;
+    background-color: #0025f88a;
   }
   .Header {
     background-color: #ff9100;
@@ -49,13 +49,12 @@
     margin-left: 10px;
   }
   .Projects{
-    background-color: #bccbde;
     display: grid;
     grid-row: 3/ span 4;
     grid-column: 3;
     grid-template-columns: repeat(auto-fit, minmax(500px, 4fr));
     gap: 30px;
-    margin-left: 10px;
+    margin-left: 25px;
   }
 
   .Projects p {
