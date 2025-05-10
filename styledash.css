@@ -46,6 +46,7 @@
     grid-column: 3;
     font-family: 'Courier New', Courier, monospace;
     font-size: 32px;
+    margin-left: 10px;
   }
   .Projects{
     background-color: #bccbde;
@@ -54,6 +55,7 @@
     grid-column: 3;
     grid-template-columns: repeat(auto-fit, minmax(500px, 4fr));
     gap: 30px;
+    margin-left: 10px;
   }
 
   .Projects p {
