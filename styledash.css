@@ -14,7 +14,7 @@
     background-color: #ff9100;
     display: grid;
     grid-template-columns: 4fr 4fr;
-    grid-column: 2/ span 2;
+    grid-column: 2/ span 4;
   }
 
   .Container {
@@ -173,6 +173,8 @@
     width: 100px;
     grid-row: 2;
     grid-column: 4;
+  }
+  .Announcements p{
     font-family: "Retro-Tech";
   }
   .Trending{
@@ -181,5 +183,8 @@
     width: 100px;
     grid-row: 3;
     grid-column: 4;
+    font-family: "Retro-Tech";
+  }
+  .Trending p{
     font-family: "Retro-Tech";
   }
