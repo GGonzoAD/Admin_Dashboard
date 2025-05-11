@@ -104,14 +104,16 @@
       width: 70px;
       height: 60px;
       border-radius: 25px;
+      grid-column: 3;
+      grid-row: 1;
     }
     .User_Picture p{
-      grid-column: 2;
+      grid-column: 4;
       grid-row: 1;
       width: 70px;
       height: 60px;
       font-family: "Retro-Tech";
-      font-size:  30px;;
+      font-size:  23px;
     }
   .Header .new_button{
     display: grid;
