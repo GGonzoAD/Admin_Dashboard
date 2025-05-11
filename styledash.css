@@ -109,10 +109,12 @@
       grid-column: 3;
       grid-row: 1;
     }
-    .User_Name p{
+    .User_Name{
       display: grid;
-      grid-column: 5;
+      grid-column: 4;
       grid-row: 1;
+    }
+    .User_Name p{
       width: 175px;
       height: 60px;
       font-family: "Retro-Tech";
