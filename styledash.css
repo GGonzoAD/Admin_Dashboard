@@ -3,6 +3,10 @@
     padding: 0;
     list-style: none;
   }
+  @font-face{
+    font-family: "Retro-Tech";
+    src:url(RETROTECH.ttf);
+  }
   .body{
     background-color: #0025f88a;
   }
@@ -106,6 +110,8 @@
       grid-row: 1;
       width: 70px;
       height: 60px;
+      font-family: "Retro-Tech";
+      font-size:  30px;;
     }
   .Header .new_button{
     display: grid;
