@@ -64,7 +64,7 @@
   .Projects p {
     display: grid;
     font-size: 18px;
-    font-family: "Retro-Tech";
+    font-family:'Courier New', Courier, monospace;
     color:#000000;
     text-align: center;
     gap: 15px;
@@ -133,6 +133,8 @@
   .Header .new_button p{
     display: grid;
     font-family: "Retro-Tech";
+    font-size: 18px;
+    grid-row: 2;
   }
   .Header .upload_button{
     display: grid;
@@ -146,6 +148,8 @@
   .Header .upload_button p{
     display: grid;
     font-family: "Retro-Tech";
+    font-size: 18px;
+    grid-row: 2;
   }
 
   .Header .share_button{
@@ -160,6 +164,8 @@
   .Header .share_button p{
     display: grid;
     font-family: "Retro-Tech";
+    font-size: 18px;
+    grid-row: 2;
   }
   .Announcements{
     display: grid;
