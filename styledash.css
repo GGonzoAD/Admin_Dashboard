@@ -181,7 +181,7 @@
   .Trending{
     display: grid;
     height: 50px;
-    width: 100px;
+    width: 110px;
     grid-row: 3;
     grid-column: 4;
   }
