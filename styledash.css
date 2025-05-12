@@ -133,7 +133,7 @@
       height: 60px;
       font-family: "Retro-Tech";
       font-size:  15px;
-      align-self: center;
+      justify-self: center;
     }
     .User_Name{
       display: grid;
@@ -144,6 +144,7 @@
       height: 60px;
       font-family: "Retro-Tech";
       font-size:  15px;
+      justify-self: center;
     }
   .Header .new_button{
     display: grid;
@@ -169,7 +170,7 @@
     background-color: #892faa;
     grid-column: 3;
     grid-row: 2;
-    justify-self: right;
+    justify-self: center;
   }
   .Header .upload_button p{
     display: grid;
@@ -186,7 +187,7 @@
     background-color: #892faa;
     grid-column: 4;
     grid-row: 2;
-    justify-self: center;
+    justify-self: left;
   }
   .Header .share_button p{
     display: grid;
