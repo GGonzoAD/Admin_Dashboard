@@ -112,12 +112,10 @@
     .User_Name{
       display: grid;
       grid-column: 4;
-      grid-row: 1;
     }
     .User_Name p{
       width: 175px;
       height: 60px;
-      grid-row: 2;
       font-family: "Retro-Tech";
       font-size:  15px;
     }
@@ -129,6 +127,7 @@
     background-color: #892faa;
     grid-column: 2;
     grid-row: 2;
+    justify-self: right;
   }
   .Header .new_button p{
     display: grid;
