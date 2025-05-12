@@ -143,6 +143,7 @@
     background-color: #892faa;
     grid-column: 3;
     grid-row: 2;
+    justify-self: right;
   }
   .Header .upload_button p{
     display: grid;
@@ -159,6 +160,7 @@
     background-color: #892faa;
     grid-column: 4;
     grid-row: 2;
+    justify-self: center;
   }
   .Header .share_button p{
     display: grid;
