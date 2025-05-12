@@ -109,6 +109,31 @@
       grid-column: 3;
       grid-row: 2;
     }
+    .User_Picture2{
+    display: grid;
+     width: 70px;
+     height: 60px;
+     grid-column: 1;
+     grid-row: 2;
+  }
+    .User_Picture2 img{
+      width: 50px;
+      height: 40px;
+      border-radius: 25px;
+      grid-column: 1;
+      grid-row: 2;
+    }
+    .Welcome-User{
+      display: grid;
+      grid-column: 1;
+      grid-row: 2;
+    }
+    .Welcome-User p{
+      width: 175px;
+      height: 60px;
+      font-family: "Retro-Tech";
+      font-size:  15px;
+    }
     .User_Name{
       display: grid;
       grid-column: 4;
