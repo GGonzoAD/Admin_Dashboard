@@ -148,6 +148,7 @@
       font-family: "Retro-Tech";
       font-size:  15px;
       justify-self: center;
+      align-content: center;
     }
   .Header .new_button{
     display: grid;
