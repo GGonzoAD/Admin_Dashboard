@@ -95,7 +95,7 @@
     background-color: #892faa;
     grid-column: 1;
     grid-row: 1;
-     align-self: center;
+    align-self: center;
   }
   .User_Picture{
     display: grid;
@@ -148,6 +148,8 @@
       height: 60px;
       font-family: "Retro-Tech";
       font-size:  15px;
+      align-self: center;
+      justify-self: center;
     }
   .Header .new_button{
     display: grid;
