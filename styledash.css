@@ -115,14 +115,13 @@
       display: grid;
       grid-column: 4;
       grid-row: 1;
-      align-self: center;
-      justify-self: center;
     }
     .User_Name p{
       width: 175px;
       height: 60px;
       font-family: "Retro-Tech";
       font-size:  15px;
+      align-content: center;
     }
     .User_Picture2{
     display: grid;
