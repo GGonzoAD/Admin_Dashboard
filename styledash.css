@@ -95,7 +95,7 @@
     background-color: #892faa;
     grid-column: 1;
     grid-row: 1;
-    align-self: center;
+    align-self: left;
   }
   .User_Picture{
     display: grid;
