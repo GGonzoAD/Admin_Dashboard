@@ -89,10 +89,10 @@
 
   .Header .searchbar_button{
     display: grid;
-    border-radius: 20px;
-    width: 50px;
-    height: 30px;
     background-color: #892faa;
+    border-radius: 15px;
+    width: 40px;
+    height: 40px;
     grid-column: 1;
     grid-row: 1;
     justify-self: left;
