@@ -42,6 +42,10 @@
     width: 50px;
 
   }
+  .Home{
+    display: grid;
+    align-self: center;
+  }
   .Your_Projects{
     display: grid;
     height: 75px;
