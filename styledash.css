@@ -42,9 +42,25 @@
     width: 50px;
 
   }
-  .Home{
+  .Home img{
     display: grid;
     align-self: center;
+    width: 50px;
+  }
+  .Account img{
+    display: grid;
+    align-self: center;
+    width: 50px;
+  }
+  .Settings img{
+    display: grid;
+    align-self: center;
+    width: 50px;
+  }
+  .Securtiy img{
+    display: grid;
+    align-self: center;
+    width: 50px;
   }
   .Your_Projects{
     display: grid;
