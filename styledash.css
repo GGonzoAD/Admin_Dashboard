@@ -43,52 +43,51 @@
     width: 50px;
   }
   .Dashboard{
-    justify-self: start;
     width: 60px;
     height: 70px;
   }
   .Home{
-    justify-self: start;
+    float: left;
     width: 60px;
     height: 70px;
   }
   .Profile{
-    justify-self: start;
+    float: left;
     width: 60px;
     height: 70px;
   }
   .Message{
-    justify-self: start;
+    float: left;
     width: 60px;
     height: 70px;
   }
   .History{
-    justify-self: start;
+    float: left;
     width: 60px;
     height: 70px;
   }
   .Tasks{
-    justify-self: start;
+    float: left;
     width: 60px;
     height: 70px;
   }
   .Communities{
-    justify-self: start;
+    float: left;
     width: 60px;
     height: 70px;
   }
   .Settings{
-    justify-self: start;
+    float: left;
     width: 60px;
     height: 70px;
   }
   .Support{
-    justify-self: start;
+    float: left;
     width: 60px;
     height: 70px;
   }
   .Securtiy{
-    justify-self: start;
+    float: left;
     width: 60px;
     height: 70px;
   }
