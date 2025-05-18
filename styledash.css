@@ -42,51 +42,52 @@
     display: grid;
     width: 50px;
   }
-  .Dashboard{
-    width: 60px;
-    height: 70px;
-  }
-  .Home{
+  .Dashboard img{
     float: left;
     width: 60px;
     height: 70px;
   }
-  .Profile{
+  .Home img{
     float: left;
     width: 60px;
     height: 70px;
   }
-  .Message{
+  .Profile img{
     float: left;
     width: 60px;
     height: 70px;
   }
-  .History{
+  .Message img{
+    float: left;
+    width: 50px;
+    height: 50px;
+  }
+  .History img{
     float: left;
     width: 60px;
     height: 70px;
   }
-  .Tasks{
+  .Tasks img{
     float: left;
     width: 60px;
     height: 70px;
   }
-  .Communities{
+  .Communities img{
     float: left;
     width: 60px;
     height: 70px;
   }
-  .Settings{
+  .Settings img{ 
     float: left;
     width: 60px;
     height: 70px;
   }
-  .Support{
+  .Support img{
     float: left;
     width: 60px;
     height: 70px;
   }
-  .Securtiy{
+  .Securtiy img{
     float: left;
     width: 60px;
     height: 70px;
