@@ -44,8 +44,53 @@
   }
   .Dashboard{
     justify-self: start;
-    width: 50px;
-    height: 50px;
+    width: 60px;
+    height: 70px;
+  }
+  .Home{
+    justify-self: start;
+    width: 60px;
+    height: 70px;
+  }
+  .Profile{
+    justify-self: start;
+    width: 60px;
+    height: 70px;
+  }
+  .Message{
+    justify-self: start;
+    width: 60px;
+    height: 70px;
+  }
+  .History{
+    justify-self: start;
+    width: 60px;
+    height: 70px;
+  }
+  .Tasks{
+    justify-self: start;
+    width: 60px;
+    height: 70px;
+  }
+  .Communities{
+    justify-self: start;
+    width: 60px;
+    height: 70px;
+  }
+  .Settings{
+    justify-self: start;
+    width: 60px;
+    height: 70px;
+  }
+  .Support{
+    justify-self: start;
+    width: 60px;
+    height: 70px;
+  }
+  .Securtiy{
+    justify-self: start;
+    width: 60px;
+    height: 70px;
   }
   .Your_Projects{
     display: grid;
