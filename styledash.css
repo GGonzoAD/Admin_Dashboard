@@ -44,7 +44,7 @@
   }
   .Home img{
     display: grid;
-    align-self: center;
+    align-content: center;
     width: 50px;
   }
   .Account img{
