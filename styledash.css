@@ -51,7 +51,6 @@
   }
   .Dashboard p {
     align-self: center;
-    padding: 10px;
   }
   .Home{
     display: flex;
@@ -62,7 +61,6 @@
   }
   .Home p {
     align-self: center;
-    padding: 10px;
   }
   .Profile{
     display: flex;
@@ -74,7 +72,7 @@
   }
   .Profile p{
     align-self: center;
-    padding: 10px;
+    
   }
   .Message{
     display: flex;
@@ -87,7 +85,7 @@
   }
   .Message p {
     align-self: center;
-    padding: 10px;
+   
   }
   .History{
     display: flex;
@@ -99,7 +97,7 @@
   }
   .History p {
     align-self: center;
-    padding: 10px;
+    
   }
   .Tasks{
     display: flex;
@@ -111,7 +109,7 @@
   }
   .Tasks p {
     align-self: center;
-    padding: 10px;
+    
   }
   .Communities{
     display: flex;
@@ -123,7 +121,7 @@
   }
    .Communities p {
     align-self: center;
-    padding: 10px;
+
   }
   .Settings{
     display: flex;
@@ -135,7 +133,7 @@
   }
   .Settings p {
     align-self: center;
-    padding: 10px;
+    
   }
   .Support{
     display: flex;
@@ -147,7 +145,7 @@
   }
   .Support p {
     align-self: center;
-    padding: 10px;
+    
   }
   .Securtiy{
     display: flex;
@@ -157,9 +155,9 @@
     width: 60px;
     height: 70px;
   }
-  .Security p {
+  .Securtiy p {
     align-self: center;
-    padding: 10px;
+    
   }
   .Your_Projects{
     display: grid;
