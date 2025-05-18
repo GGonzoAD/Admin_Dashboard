@@ -42,13 +42,16 @@
     display: grid;
     width: 50px;
   }
-  .Dashboard img{
+  .Dashboard{
     display: flex;
+  }
+  .Dashboard img{
     width: 60px;
     height: 70px;
   }
   .Dashboard p {
-    display: flex;
+    align-self: center;
+    padding: 10px;
   }
   .Home img{
     float: left;
