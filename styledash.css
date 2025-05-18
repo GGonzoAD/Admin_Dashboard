@@ -37,16 +37,10 @@
   .Menu ul li{
     margin-bottom: 15px;
   }
-  .Menu ul img{
-    display: grid;
-    width: 80px;
-    height: 50px;
-    align-content: center;
-  }
+  
   .dash-icon{
     display: grid;
     width: 50px;
-
   }
   
   .Your_Projects{
