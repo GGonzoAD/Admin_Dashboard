@@ -53,50 +53,113 @@
     align-self: center;
     padding: 10px;
   }
+  .Home{
+    display: flex;
+  }
   .Home img{
-    float: left;
     width: 60px;
     height: 70px;
+  }
+  .Home p {
+    align-self: center;
+    padding: 10px;
+  }
+  .Profile{
+    display: flex;
   }
   .Profile img{
     float: left;
     width: 60px;
     height: 70px;
   }
+  .Profile p{
+    align-self: center;
+    padding: 10px;
+  }
+  .Message{
+    display: flex;
+  }
   .Message img{
     float: left;
+    align-self: center;
     width: 40px;
     height: 40px;
+  }
+  .Message p {
+    align-self: center;
+    padding: 10px;
+  }
+  .History{
+    display: flex;
   }
   .History img{
     float: left;
     width: 60px;
     height: 70px;
   }
+  .History p {
+    align-self: center;
+    padding: 10px;
+  }
+  .Tasks{
+    display: flex;
+  }
   .Tasks img{
     float: left;
     width: 60px;
     height: 70px;
+  }
+  .Tasks p {
+    align-self: center;
+    padding: 10px;
+  }
+  .Communities{
+    display: flex;
   }
   .Communities img{
     float: left;
     width: 60px;
     height: 70px;
   }
+   .Communities p {
+    align-self: center;
+    padding: 10px;
+  }
+  .Settings{
+    display: flex;
+  }
   .Settings img{ 
     float: left;
     width: 60px;
     height: 70px;
+  }
+  .Settings p {
+    align-self: center;
+    padding: 10px;
+  }
+  .Support{
+    display: flex;
   }
   .Support img{
     float: left;
     width: 60px;
     height: 70px;
   }
+  .Support p {
+    align-self: center;
+    padding: 10px;
+  }
+  .Securtiy{
+    display: flex;
+  }
   .Securtiy img{
     float: left;
     width: 60px;
     height: 70px;
+  }
+  .Security p {
+    align-self: center;
+    padding: 10px;
   }
   .Your_Projects{
     display: grid;
