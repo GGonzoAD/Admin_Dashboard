@@ -202,14 +202,14 @@
     grid-column: 1;
     grid-row: 1;
     align-self: center;
-    justify-self: center;
+    justify-content: center;
   }
 
   .Header .searchbar_button{
     display: flex;
     width: 40px;
     height: 40px;
-    justify-self: left;
+    justify-content: center;
     align-self: center;
     grid-column: 1;
     grid-row: 1;
