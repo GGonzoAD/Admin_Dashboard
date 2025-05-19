@@ -15,6 +15,7 @@
     display: grid;
     grid-template-columns: 4fr 4fr;
     grid-column: 2/ span 4;
+    box-shadow: 3px 2px 3px black;
   }
 
   .Container {
