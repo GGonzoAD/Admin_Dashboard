@@ -188,7 +188,9 @@
     text-align: center;
     gap: 15px;
   }
-
+  .Projects .card .title{
+    
+  }
   .Projects .card {
     background-color: #ffffff;
     color:black;
