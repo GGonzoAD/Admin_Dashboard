@@ -57,7 +57,7 @@
   }
   .Home img{
     width: 60px;
-    height: 70px;
+    height: 40px;
   }
   .Home p {
     align-self: center;
@@ -68,7 +68,7 @@
   .Profile img{
     float: left;
     width: 60px;
-    height: 70px;
+    height: 40px;
   }
   .Profile p{
     align-self: center;
@@ -93,7 +93,7 @@
   .History img{
     float: left;
     width: 60px;
-    height: 70px;
+    height: 40px;
   }
   .History p {
     align-self: center;
@@ -105,7 +105,7 @@
   .Tasks img{
     float: left;
     width: 60px;
-    height: 70px;
+    height: 40px;
   }
   .Tasks p {
     align-self: center;
@@ -117,7 +117,7 @@
   .Communities img{
     float: left;
     width: 60px;
-    height: 70px;
+    height: 40px;
   }
    .Communities p {
     align-self: center;
@@ -129,7 +129,7 @@
   .Settings img{ 
     float: left;
     width: 60px;
-    height: 70px;
+    height: 40px;
   }
   .Settings p {
     align-self: center;
@@ -141,7 +141,7 @@
   .Support img{
     float: left;
     width: 60px;
-    height: 70px;
+    height: 40px;
   }
   .Support p {
     align-self: center;
@@ -153,7 +153,7 @@
   .Securtiy img{
     float: left;
     width: 60px;
-    height: 70px;
+    height: 40px;
   }
   .Securtiy p {
     align-self: center;
