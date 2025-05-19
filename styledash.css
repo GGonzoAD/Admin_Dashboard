@@ -197,16 +197,19 @@
 
   .Searchbar {
     display: flex;
-    border: 3px #7d0da5;
-    height: 30px;
     grid-column: 1;
     grid-row: 1;
     align-self: center;
     justify-content: center;
   }
-
+  .search{
+    border-radius: 25px;
+    height: 30px;
+    width: 75%;
+    align-self: center;
+    justify-content: center;
+  }
   .Header .searchbar_button{
-    display: flex;
     width: 40px;
     height: 40px;
     justify-content: center;
