@@ -185,11 +185,13 @@
     font-size: 18px;
     font-family:'Courier New', Courier, monospace;
     color:#000000;
-    text-align: center;
+    text-align: left;
     gap: 15px;
   }
-  .Projects .card .title{
-    
+  .Projects .card .title {
+    font-size: 25px;
+    font-weight: bold;
+    font-family: "Retro-Tech"
   }
   .Projects .card {
     background-color: #ffffff;
