@@ -193,6 +193,8 @@
     color:black;
     text-align: center;
     height: 200px;
+    box-shadow: 2px 3px 5px black;
+    border-left: 5px solid #ff9100;
   }
 
   .Searchbar {
@@ -242,7 +244,7 @@
       width: 175px;
       height: 60px;
       font-family: "Retro-Tech";
-      font-size:  15px;
+      font-size:  20px;
       align-content: center;
     }
     .User_Picture2{
