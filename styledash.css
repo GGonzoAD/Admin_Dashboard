@@ -203,7 +203,6 @@
     grid-row: 1;
     align-self: center;
     justify-self: center;
-    width: 550px;
     border-radius: 25px;
   }
 
@@ -215,6 +214,7 @@
     align-self: center;
     grid-column: 1;
     grid-row: 1;
+    border-radius: 25px;
   }
   .User_Picture{
     display: grid;
