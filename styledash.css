@@ -162,14 +162,14 @@
     
   }
   .Your_Projects{
-    display: grid;
-    height: 75px;
+    display: flex;
     width: 155px;
     grid-row: 2;
     grid-column: 3;
     font-family: "Retro-Tech";
     font-size: 32px;
     margin-left: 25px;
+    align-self: center;
   }
   .Projects{
     display: grid;
