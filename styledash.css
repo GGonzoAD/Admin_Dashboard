@@ -196,21 +196,19 @@
   }
 
   .Searchbar {
-    display: grid;
+    display: flex;
     border: 3px #7d0da5;
-    border-radius: 20px;
     height: 25px;
     grid-column: 1;
     grid-row: 1;
     align-self: center;
     justify-self: center;
     width: 550px;
-
+    border-radius: 25px;
   }
 
   .Header .searchbar_button{
-    display: grid;
-    border-radius: 15px;
+    display: flex;
     width: 40px;
     height: 40px;
     justify-self: left;
