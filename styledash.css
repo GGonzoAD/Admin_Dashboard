@@ -208,6 +208,7 @@
     width: 75%;
     align-self: center;
     justify-content: center;
+    background-color: #ffffff;
   }
   .Header .searchbar_button{
     width: 40px;
