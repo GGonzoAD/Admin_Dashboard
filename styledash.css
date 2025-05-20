@@ -355,6 +355,9 @@
     height: 200px;
     border-left: 5px solid #ff9100;
     border-radius: 10px;
+     white-space: nowrap;
+    overflow: hidden;
+    text-overflow: ellipsis;
   }
   .Trending{
     display: grid;
@@ -367,7 +370,6 @@
     font-family: "Retro-Tech";
     font-size: 25px;
     justify-self: center;
-    text-overflow: ellipsis;
   }
   .Tab{
     display: flex;
@@ -377,4 +379,7 @@
     height: 200px;
     border-left: 5px solid #ff9100;
     border-radius: 10px;
+    white-space: nowrap;
+    overflow: hidden;
+    text-overflow: ellipsis;
   }
