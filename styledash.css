@@ -189,7 +189,8 @@
      height: 40px;
     grid-column: 2;
     grid-row: 1;
-    justify-self: left;
+    align-self: center;
+    justify-self: right;
   }
   .User_Picture{
     display: grid;
