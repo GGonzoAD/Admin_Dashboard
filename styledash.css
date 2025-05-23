@@ -359,7 +359,7 @@
     font-family: "Retro-Tech";
     font-size: 20px;
   }
-  .tab p{ 
+  .tab { 
     display: grid;
     background-color: #ffffff;
     color: black;
@@ -382,11 +382,8 @@
     font-family: "Retro-Tech";
     font-size: 20px;
     justify-self: center;
-    white-space: nowrap;
-    overflow: hidden;
-    text-overflow: ellipsis;
   }
-  .Tab p{
+  .Tab {
     display: flex;
     background-color: #ffffff;
     color: black;
@@ -394,5 +391,7 @@
     height: 200px;
     border-left: 5px solid #ff9100;
     border-radius: 10px;
-    
+    white-space: nowrap;
+    overflow: hidden;
+    text-overflow: ellipsis;
   }
