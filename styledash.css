@@ -365,17 +365,18 @@
   }
   .Announcements .tab p{
     font-family: "Retro-Tech";
-    font-size: 15px;
+    font-size: 10px;
+    padding: 5px;
   }
   .Announcements .tab .A-Title{
-    font-size: 20px;
+    font-size: 15px;
     font-family: "Retro-Tech";
   }
   .Trending{
     display: grid;
     height: 50px;
     width: 200px;
-    grid-row: 3;
+    grid-row: 4;
     grid-column: 4;
   }
   .Trending p{
