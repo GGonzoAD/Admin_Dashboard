@@ -349,7 +349,7 @@
   }
    
   .Announcements{
-    display: flex;
+    display: grid;
     height: 50px;
     width: 200px;
     grid-row: 2;
@@ -372,7 +372,7 @@
     font-family: "Retro-Tech";
   }
   .Trending{
-    display: flex;
+    display: grid;
     height: 50px;
     width: 200px;
     grid-row: 3;
