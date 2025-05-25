@@ -356,7 +356,7 @@
     grid-column: 4;
   }
 
-  .Announcements.tab { 
+  .Announcements .tab { 
     background-color: #ffffff;
     color: black;
     text-align: center;
