@@ -374,6 +374,7 @@
   }
   .Trending{
     display: grid;
+    grid-template-columns: 4fr 4fr;
     height: 50px;
     width: 200px;
     grid-row: 4;
