@@ -394,6 +394,7 @@
     border-radius: 10px;
   }
   .Trending .Tab .User-Icon img{
+    align-self: center;
     justify-self: left;
     width: 65px;
     height: 50px;
