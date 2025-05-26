@@ -374,7 +374,7 @@
   }
   .Trending{
     display: grid;
-    grid-template-columns: 4fr 4fr;
+    grid-template-columns: 2fr 2fr;
     height: 50px;
     width: 200px;
     grid-row: 4;
@@ -382,7 +382,7 @@
   }
   .Trending p{
     font-family: "Retro-Tech";
-    font-size: 15px;
+    font-size: 25px;
     justify-self: center;
   }
   .Trending .Tab {
